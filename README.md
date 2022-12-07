@@ -4,6 +4,11 @@ _R&D Software engineer at Dassault Systemes based in France_
 
 📎 [Email](mailto:lucas@dionisi.pro) / [Website](https://lucas.dionisi.pro/) / [LinkedIn](https://www.linkedin.com/in/dionisi-lucas/) / [GitHub](https://github.com/lucasdionisi/)
 
+## 🍻 Personal project
+
+Rate together our favorites beers on [Notabiere.fr](https://notabiere.fr)
+This project was an opportunity for me to learn web langages.
+
 ## 👨‍💻 Engineering Experience
 
 **Software Development Engineer** @ [Dassault Systemes](https://www.3ds.com/) _(Nov 2021 - Present)_ <br>
