@@ -4,10 +4,12 @@ _R&D Software engineer at Dassault Systemes based in France_
 
 📎 [Email](mailto:lucas@dionisi.pro) / [Website](https://lucas.dionisi.pro/) / [LinkedIn](https://www.linkedin.com/in/dionisi-lucas/) / [GitHub](https://github.com/lucasdionisi/)
 
-## 🍻 Personal project
+## 🍻 Personal projects
 
-Rate together our favorites beers on ~[Notabiere.fr](https://notabiere.fr)~ (This project is no longer hosted).
-This project was an opportunity for me to learn web langages.
+- Rate together our favorites beers on ~[Notabiere.fr](https://notabiere.fr)~ (This project is no longer hosted). This project was an opportunity for me to learn web langages.
+- Through a web interface, you will be able to create a music list to play a musical blindtest with your viewers on twitch: [TwitchBot Blindtest](https://github.com/LucasDionisi/TwitchBot_blindtest).
+- A catalog of royalty-free music [Katalog](https://www.katalog.k1000prod.fr/).
+- Artist's website [K1000Prod 🎤](https://www.musique.k1000prod.fr/) and professional videographer's website [Mathieu Lobstein 🎥](https://www.mathieulobstein.com/).
 
 ## 👨‍💻 Engineering Experience
 
