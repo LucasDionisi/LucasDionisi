@@ -6,7 +6,7 @@ _R&D Software engineer at Dassault Systemes based in France_
 
 ## 🍻 Personal project
 
-Rate together our favorites beers on [Notabiere.fr](https://notabiere.fr)
+Rate together our favorites beers on ~[Notabiere.fr](https://notabiere.fr)~ (This project is no longer hosted).
 This project was an opportunity for me to learn web langages.
 
 ## 👨‍💻 Engineering Experience
