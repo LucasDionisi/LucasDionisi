@@ -2,7 +2,7 @@
 
 _R&D Software engineer at Dassault Systemes based in France_
 
-📎 [Email](mailto:lucas@dionisi.pro) / [Website](https://lucas.dionisi.pro/) / [LinkedIn](https://www.linkedin.com/in/dionisi-lucas/) / [GitHub](https://github.com/lucasdionisi/)
+📎 [Email](mailto:lucasdionisi@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dionisi-lucas/) / [GitHub](https://github.com/lucasdionisi/)
 
 ## 👨‍💻 Engineering Experience
 
