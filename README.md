@@ -31,6 +31,7 @@ During a project to create pre-personalization software for smart cards:
  <br><br>
 
 ## 🍻 Personal projects
+*Websites may no longer be hosted*
 
 - Rate together our favorites beers: [notabiere](https://github.com/LucasDionisi/notation-de-biere) (This project is no longer hosted). This project was an opportunity for me to learn web langages.
 - Through a web interface, you will be able to create a music list to play a musical blindtest with your viewers on twitch: [TwitchBot Blindtest](https://github.com/LucasDionisi/TwitchBot_blindtest).
